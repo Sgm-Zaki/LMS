@@ -1,0 +1,15 @@
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\bin\Debug\net8.0\LMS.BLL.deps.json
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\bin\Debug\net8.0\LMS.BLL.dll
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\bin\Debug\net8.0\LMS.BLL.pdb
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\bin\Debug\net8.0\LMS.DAL.dll
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\bin\Debug\net8.0\LMS.DAL.pdb
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.csproj.AssemblyReference.cache
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.AssemblyInfoInputs.cache
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.AssemblyInfo.cs
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.csproj.Up2Date
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.dll
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\refint\LMS.BLL.dll
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\LMS.BLL.pdb
+C:\Users\Sheri\source\repos\CsharpTutorialCLS\LMS.BLL\obj\Debug\net8.0\ref\LMS.BLL.dll
